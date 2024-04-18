@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\git\\David\\DesarrolloWebII\\mvcProyectoWeb - 02 - Practica 4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F820C013-85C6-47F1-9851-122DF754E83E}|mvcProyectoWeb\\mvcProyectoWeb.csproj|d:\\git\\david\\desarrollowebii\\mvcproyectoweb - 02 - practica 4\\mvcproyectoweb\\areas\\admin\\views\\almacenes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F820C013-85C6-47F1-9851-122DF754E83E}|mvcProyectoWeb\\mvcProyectoWeb.csproj|solutionrelative:mvcproyectoweb\\areas\\admin\\views\\almacenes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F820C013-85C6-47F1-9851-122DF754E83E}|mvcProyectoWeb\\mvcProyectoWeb.csproj|d:\\git\\david\\desarrollowebii\\mvcproyectoweb - 02 - practica 4\\mvcproyectoweb\\areas\\admin\\controllers\\almacenescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F820C013-85C6-47F1-9851-122DF754E83E}|mvcProyectoWeb\\mvcProyectoWeb.csproj|solutionrelative:mvcproyectoweb\\areas\\admin\\controllers\\almacenescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F820C013-85C6-47F1-9851-122DF754E83E}|mvcProyectoWeb\\mvcProyectoWeb.csproj|d:\\git\\david\\desarrollowebii\\mvcproyectoweb - 02 - practica 4\\mvcproyectoweb\\wwwroot\\js\\cliente.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F820C013-85C6-47F1-9851-122DF754E83E}|mvcProyectoWeb\\mvcProyectoWeb.csproj|solutionrelative:mvcproyectoweb\\wwwroot\\js\\cliente.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "cliente.js",
+              "DocumentMoniker": "D:\\git\\David\\DesarrolloWebII\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb\\wwwroot\\js\\cliente.js",
+              "RelativeDocumentMoniker": "mvcProyectoWeb\\wwwroot\\js\\cliente.js",
+              "ToolTip": "D:\\git\\David\\DesarrolloWebII\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb\\wwwroot\\js\\cliente.js",
+              "RelativeToolTip": "mvcProyectoWeb\\wwwroot\\js\\cliente.js",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-18T00:48:18.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlmacenesController.cs",
+              "DocumentMoniker": "D:\\git\\David\\DesarrolloWebII\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb\\Areas\\Admin\\Controllers\\AlmacenesController.cs",
+              "RelativeDocumentMoniker": "mvcProyectoWeb\\Areas\\Admin\\Controllers\\AlmacenesController.cs",
+              "ToolTip": "D:\\git\\David\\DesarrolloWebII\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb\\Areas\\Admin\\Controllers\\AlmacenesController.cs",
+              "RelativeToolTip": "mvcProyectoWeb\\Areas\\Admin\\Controllers\\AlmacenesController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAIwDEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T00:46:18.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\git\\David\\DesarrolloWebII\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb\\Areas\\Admin\\Views\\Almacenes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "mvcProyectoWeb\\Areas\\Admin\\Views\\Almacenes\\Edit.cshtml",
+              "ToolTip": "D:\\git\\David\\DesarrolloWebII\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb\\Areas\\Admin\\Views\\Almacenes\\Edit.cshtml",
+              "RelativeToolTip": "mvcProyectoWeb\\Areas\\Admin\\Views\\Almacenes\\Edit.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T00:45:31.037Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
