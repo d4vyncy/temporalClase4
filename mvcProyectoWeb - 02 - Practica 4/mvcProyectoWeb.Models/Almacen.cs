@@ -17,6 +17,7 @@ namespace mvcProyectoWeb.Models
         [Required(ErrorMessage = "La direccion es obligatoria")]
         [Display(Name = "Direccion del Almacen")]
 
+
         public string Direccion { get; set; }
         [DataType(DataType.ImageUrl)]
         [Display(Name = "Imagen")]
