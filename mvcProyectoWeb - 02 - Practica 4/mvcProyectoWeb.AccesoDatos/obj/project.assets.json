@@ -4460,11 +4460,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\git\\David\\DesarrolloWebII\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj",
+      "projectUniqueName": "D:\\gitd4vyncy\\clase4Temporal\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj",
       "projectName": "mvcProyectoWeb.AccesoDatos",
-      "projectPath": "D:\\git\\David\\DesarrolloWebII\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj",
+      "projectPath": "D:\\gitd4vyncy\\clase4Temporal\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj",
       "packagesPath": "C:\\Users\\Usuuario2\\.nuget\\packages\\",
-      "outputPath": "D:\\git\\David\\DesarrolloWebII\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb.AccesoDatos\\obj\\",
+      "outputPath": "D:\\gitd4vyncy\\clase4Temporal\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb.AccesoDatos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4486,11 +4486,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\git\\David\\DesarrolloWebII\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb.Models\\mvcProyectoWeb.Models.csproj": {
-              "projectPath": "D:\\git\\David\\DesarrolloWebII\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb.Models\\mvcProyectoWeb.Models.csproj"
+            "D:\\gitd4vyncy\\clase4Temporal\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb.Models\\mvcProyectoWeb.Models.csproj": {
+              "projectPath": "D:\\gitd4vyncy\\clase4Temporal\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb.Models\\mvcProyectoWeb.Models.csproj"
             },
-            "D:\\git\\David\\DesarrolloWebII\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb.Utilidades\\mvcProyectoWeb.Utilidades.csproj": {
-              "projectPath": "D:\\git\\David\\DesarrolloWebII\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb.Utilidades\\mvcProyectoWeb.Utilidades.csproj"
+            "D:\\gitd4vyncy\\clase4Temporal\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb.Utilidades\\mvcProyectoWeb.Utilidades.csproj": {
+              "projectPath": "D:\\gitd4vyncy\\clase4Temporal\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb.Utilidades\\mvcProyectoWeb.Utilidades.csproj"
             }
           }
         }

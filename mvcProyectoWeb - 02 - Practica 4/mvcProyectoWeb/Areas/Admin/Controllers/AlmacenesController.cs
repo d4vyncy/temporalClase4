@@ -13,16 +13,19 @@ namespace mvcProyectoWeb.Areas.Admin.Controllers
         {
             _contenedorTrabajo = contenedorTrabajo;
         }
+        //metodo para ir a la vista index
         [HttpGet]
         public IActionResult Index()
         {
             return View();
         }
+        //metodo para ir a la vista create
         [HttpGet]
         public IActionResult Create()
         {
             return View();
         }
+        //metodo para guardar los datos del nuevo almacen
         [HttpPost]
         [ValidateAntiForgeryToken]
         public IActionResult Create(Almacen almacen)

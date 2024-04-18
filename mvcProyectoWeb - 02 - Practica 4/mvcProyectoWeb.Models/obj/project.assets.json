@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\git\\David\\DesarrolloWebII\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb.Models\\mvcProyectoWeb.Models.csproj",
+      "projectUniqueName": "D:\\gitd4vyncy\\clase4Temporal\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb.Models\\mvcProyectoWeb.Models.csproj",
       "projectName": "mvcProyectoWeb.Models",
-      "projectPath": "D:\\git\\David\\DesarrolloWebII\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb.Models\\mvcProyectoWeb.Models.csproj",
+      "projectPath": "D:\\gitd4vyncy\\clase4Temporal\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb.Models\\mvcProyectoWeb.Models.csproj",
       "packagesPath": "C:\\Users\\Usuuario2\\.nuget\\packages\\",
-      "outputPath": "D:\\git\\David\\DesarrolloWebII\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb.Models\\obj\\",
+      "outputPath": "D:\\gitd4vyncy\\clase4Temporal\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
